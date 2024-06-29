@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnathan, an <a href="www.linkedin.com/in/johnathan-mcmichael-742b14310">IT Professional</a>☺</h1>
+<h1>Hi, I'm Johnathan, an <a href="https://www.linkedin.com/in/johnathan-mcmichael-742b14310">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,4 +15,4 @@
 [<img align="left" alt="Johnathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/johnathan-mcmichael-742b14310
+[linkedin]: https://www.linkedin.com/in/johnathan-mcmichael-742b14310
